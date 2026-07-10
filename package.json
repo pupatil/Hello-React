@@ -1,0 +1,22 @@
+{
+  "name": "hello-react",
+  "version": "1.0.0",
+  "description": "this is react by puja patil",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pupatil/Hello-React.git"
+  },
+  "author": "puja patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pupatil/Hello-React/issues"
+  },
+  "homepage": "https://github.com/pupatil/Hello-React#readme",
+  "dependencies": {
+    "parcel": "^2.16.4"
+  }
+}
