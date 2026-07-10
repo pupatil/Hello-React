@@ -20,6 +20,8 @@ React.createElement("h4" , {id:"heading2"} , "I am H4 tag")
 ]),
 )
 
+
+
 // const heading1 = React.createElement(
 //     "h1", 
 //     {id:"heading", xyz:"ABC", className:"headingClass"},
@@ -29,5 +31,6 @@ React.createElement("h4" , {id:"heading2"} , "I am H4 tag")
 const root1 = ReactDOM.createRoot(document.getElementById("root"));
 
 root1.render(Parent);
+
 
 
