@@ -1,0 +1,42 @@
+export const restaurantList = [
+  {
+    id: 1,
+    imageSrc: "https://images.pexels.com/photos/7394819/pexels-photo-7394819.jpeg?auto=compress&cs=tinysrgb&w=600",
+    restoName: "Meghana Foods",
+    cuisine: "Biryani, North Indian, Asian",
+    rating: 3.1,
+    deliveryTime: "30 mins",
+  },
+  {
+    id: 2,
+    imageSrc: "https://images.pexels.com/photos/315755/pexels-photo-315755.jpeg?auto=compress&cs=tinysrgb&w=600",
+    restoName: "Pizza Hub",
+    cuisine: "Pizza, Italian",
+    rating: 4.3,
+    deliveryTime: "25 mins",
+  },
+  {
+    id: 3,
+    imageSrc: "https://images.pexels.com/photos/1639562/pexels-photo-1639562.jpeg?auto=compress&cs=tinysrgb&w=600",
+    restoName: "Burger King",
+    cuisine: "Burgers, American",
+    rating:3.5,
+    deliveryTime: "22 mins",
+  },
+  {
+    id: 4,
+    imageSrc: "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&w=600",
+    restoName: "Chinese Wok",
+    cuisine: "Chinese, Asian",
+    rating: 4.6,
+    deliveryTime: "35 mins",
+  },
+  {
+    id: 5,
+    imageSrc: "https://images.pexels.com/photos/357756/pexels-photo-357756.jpeg?auto=compress&cs=tinysrgb&w=600",
+    restoName: "Green Leaf",
+    cuisine: "Healthy, Vegetarian",
+    rating: 4.4,
+    deliveryTime: "18 mins",
+  },
+];

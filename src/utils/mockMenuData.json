@@ -1,0 +1,109 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "Menu fetched successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "21001",
+              "name": "Demo Restaurant",
+              "city": "Pune",
+              "areaName": "Kothrud",
+              "locality": "Pune",
+              "avgRating": 4.3,
+              "totalRatingsString": "500+ ratings",
+              "costForTwo": 400,
+              "costForTwoMessage": "₹400 for two",
+              "cuisines": [
+                "North Indian",
+                "Chinese",
+                "Biryani"
+              ],
+              "cloudinaryImageId": "restaurant-image",
+              "veg": true,
+              "sla": {
+                "deliveryTime": 35,
+                "lastMileTravel": 3.5
+              }
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+            "title": "Recommended",
+            "itemCards": [
+              {
+                "card": {
+                  "info": {
+                    "id": "item001",
+                    "name": "Paneer Butter Masala",
+                    "category": "Main Course",
+                    "description": "Paneer cooked with butter and creamy tomato gravy",
+                    "imageId": "paneer-image",
+                    "price": 25000,
+                    "defaultPrice": 25000,
+                    "isVeg": 1,
+                    "ratings": {
+                      "aggregatedRating": {
+                        "rating": "4.5",
+                        "ratingCount": "120"
+                      }
+                    }
+                  }
+                }
+              },
+              {
+                "card": {
+                  "info": {
+                    "id": "item002",
+                    "name": "Veg Biryani",
+                    "category": "Rice",
+                    "description": "Aromatic basmati rice with vegetables",
+                    "imageId": "biryani-image",
+                    "price": 18000,
+                    "defaultPrice": 18000,
+                    "isVeg": 1,
+                    "ratings": {
+                      "aggregatedRating": {
+                        "rating": "4.2",
+                        "ratingCount": "90"
+                      }
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+            "title": "Beverages",
+            "itemCards": [
+              {
+                "card": {
+                  "info": {
+                    "id": "item003",
+                    "name": "Cold Coffee",
+                    "category": "Beverages",
+                    "description": "Cold coffee with ice cream",
+                    "price": 9000,
+                    "isVeg": 1
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
+    ]
+  }
+}

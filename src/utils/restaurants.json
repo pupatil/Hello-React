@@ -1,0 +1,224 @@
+{
+  "restaurants": [
+    {
+      "id": "101",
+      "name": "Pizza Hut",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=1",
+      "cuisines": ["Pizza", "Italian"],
+      "avgRating": 4.5,
+      "costForTwo": "₹400 for two",
+      "sla": { "deliveryTime": 30 },
+      "areaName": "Baner",
+      "promoted": true
+    },
+    {
+      "id": "102",
+      "name": "Burger King",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=2",
+      "cuisines": ["Burger", "Fast Food"],
+      "avgRating": 4.3,
+      "costForTwo": "₹350 for two",
+      "sla": { "deliveryTime": 25 },
+      "areaName": "Hinjewadi",
+      "promoted": false
+    },
+    {
+      "id": "103",
+      "name": "Domino's Pizza",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=3",
+      "cuisines": ["Pizza"],
+      "avgRating": 4.4,
+      "costForTwo": "₹500 for two",
+      "sla": { "deliveryTime": 28 },
+      "areaName": "Wakad",
+      "promoted": true
+    },
+    {
+      "id": "104",
+      "name": "McDonald's",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=4",
+      "cuisines": ["Burger", "American"],
+      "avgRating": 4.2,
+      "costForTwo": "₹450 for two",
+      "sla": { "deliveryTime": 24 },
+      "areaName": "Aundh",
+      "promoted": false
+    },
+    {
+      "id": "105",
+      "name": "KFC",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=5",
+      "cuisines": ["Chicken", "Fast Food"],
+      "avgRating": 4.1,
+      "costForTwo": "₹550 for two",
+      "sla": { "deliveryTime": 27 },
+      "areaName": "Shivaji Nagar",
+      "promoted": true
+    },
+    {
+      "id": "106",
+      "name": "Subway",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=6",
+      "cuisines": ["Healthy", "Sandwich"],
+      "avgRating": 4.4,
+      "costForTwo": "₹300 for two",
+      "sla": { "deliveryTime": 22 },
+      "areaName": "Kothrud",
+      "promoted": false
+    },
+    {
+      "id": "107",
+      "name": "Biryani House",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=7",
+      "cuisines": ["Biryani", "Mughlai"],
+      "avgRating": 4.6,
+      "costForTwo": "₹600 for two",
+      "sla": { "deliveryTime": 35 },
+      "areaName": "Pimple Saudagar",
+      "promoted": true
+    },
+    {
+      "id": "108",
+      "name": "Behrouz Biryani",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=8",
+      "cuisines": ["Biryani"],
+      "avgRating": 4.5,
+      "costForTwo": "₹700 for two",
+      "sla": { "deliveryTime": 32 },
+      "areaName": "Baner",
+      "promoted": false
+    },
+    {
+      "id": "109",
+      "name": "Chinese Wok",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=9",
+      "cuisines": ["Chinese"],
+      "avgRating": 4.3,
+      "costForTwo": "₹450 for two",
+      "sla": { "deliveryTime": 30 },
+      "areaName": "Viman Nagar",
+      "promoted": true
+    },
+    {
+      "id": "110",
+      "name": "Mainland China",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=10",
+      "cuisines": ["Chinese", "Asian"],
+      "avgRating": 4.7,
+      "costForTwo": "₹1200 for two",
+      "sla": { "deliveryTime": 40 },
+      "areaName": "Koregaon Park",
+      "promoted": false
+    },
+    {
+      "id": "111",
+      "name": "Barbeque Nation",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=11",
+      "cuisines": ["BBQ", "North Indian"],
+      "avgRating": 4.6,
+      "costForTwo": "₹1500 for two",
+      "sla": { "deliveryTime": 38 },
+      "areaName": "Camp",
+      "promoted": true
+    },
+    {
+      "id": "112",
+      "name": "The Good Bowl",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=12",
+      "cuisines": ["Rice Bowl"],
+      "avgRating": 4.2,
+      "costForTwo": "₹350 for two",
+      "sla": { "deliveryTime": 26 },
+      "areaName": "Hadapsar",
+      "promoted": false
+    },
+    {
+      "id": "113",
+      "name": "Faasos",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=13",
+      "cuisines": ["Wraps"],
+      "avgRating": 4.3,
+      "costForTwo": "₹300 for two",
+      "sla": { "deliveryTime": 21 },
+      "areaName": "Magarpatta",
+      "promoted": false
+    },
+    {
+      "id": "114",
+      "name": "La Pino'z Pizza",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=14",
+      "cuisines": ["Pizza"],
+      "avgRating": 4.4,
+      "costForTwo": "₹450 for two",
+      "sla": { "deliveryTime": 29 },
+      "areaName": "Wakad",
+      "promoted": true
+    },
+    {
+      "id": "115",
+      "name": "Cream Stone",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=15",
+      "cuisines": ["Ice Cream", "Desserts"],
+      "avgRating": 4.8,
+      "costForTwo": "₹350 for two",
+      "sla": { "deliveryTime": 20 },
+      "areaName": "Aundh",
+      "promoted": false
+    },
+    {
+      "id": "116",
+      "name": "Natural Ice Cream",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=16",
+      "cuisines": ["Desserts"],
+      "avgRating": 4.7,
+      "costForTwo": "₹300 for two",
+      "sla": { "deliveryTime": 19 },
+      "areaName": "Baner",
+      "promoted": false
+    },
+    {
+      "id": "117",
+      "name": "Cafe Coffee Day",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=17",
+      "cuisines": ["Coffee", "Snacks"],
+      "avgRating": 4.1,
+      "costForTwo": "₹500 for two",
+      "sla": { "deliveryTime": 18 },
+      "areaName": "FC Road",
+      "promoted": true
+    },
+    {
+      "id": "118",
+      "name": "Starbucks",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=18",
+      "cuisines": ["Coffee", "Bakery"],
+      "avgRating": 4.6,
+      "costForTwo": "₹800 for two",
+      "sla": { "deliveryTime": 23 },
+      "areaName": "Phoenix Mall",
+      "promoted": true
+    },
+    {
+      "id": "119",
+      "name": "Haldiram's",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=19",
+      "cuisines": ["North Indian", "Sweets"],
+      "avgRating": 4.5,
+      "costForTwo": "₹500 for two",
+      "sla": { "deliveryTime": 31 },
+      "areaName": "Kharadi",
+      "promoted": false
+    },
+    {
+      "id": "120",
+      "name": "Taco Bell",
+      "cloudinaryImageId": "https://picsum.photos/300/200?random=20",
+      "cuisines": ["Mexican"],
+      "avgRating": 4.2,
+      "costForTwo": "₹450 for two",
+      "sla": { "deliveryTime": 26 },
+      "areaName": "Viman Nagar",
+      "promoted": true
+    }
+  ]
+}
